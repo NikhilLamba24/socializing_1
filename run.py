@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 import gradio as gr
 
-from gradio_ui import demo
+from gradio_ui import iface
 
 app = FastAPI()
 
